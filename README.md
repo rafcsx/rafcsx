@@ -1,7 +1,7 @@
 # Olá, eu sou Rafael Correia! 👋
 
-<div style="text-align: justify;">
 ![GIF de Boas-Vindas](https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif)
+<div style="text-align: justify;">
 
   ---
 
