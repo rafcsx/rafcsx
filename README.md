@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael Correia! 👋
 
-![GIF de Boas-Vindas](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+![GIF de Boas-Vindas](https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif)
 
 Sou um desenvolvedor Full Stack focado em criar experiências interativas e responsivas com uma paixão por design e desenvolvimento web.
 
