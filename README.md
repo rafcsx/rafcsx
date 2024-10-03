@@ -56,9 +56,9 @@
   ## ✨ Projetos Destacados
 
   - **[portfolio-faelc](https://github.com/rafcsx/portfolio-faelc)** - Um portfólio interativo destacando minhas habilidades e projetos.
-  - **[react-xvsophia](https://github.com/rafcsx/react-xvsophia)** - Projeto React para uma aplicação web.
-  - **[xv-bthday-photos](https://github.com/rafcsx/xv-bthday-photos)** - Um projeto JavaScript para gerenciamento de fotos de aniversário.
-  - **[xv-bthday-mp-obrigado](https://github.com/rafcsx/xv-bthday-mp-obrigado)** - Página de agradecimento estilizada em CSS.
+  - **[ecommerce-react-base](https://github.com/rafcsx/ecommerce-react-base)** - Projeto React para uma aplicação de ecommerce web.
+  - **[xv-bthday-presents](https://github.com/rafcsx/xv-bthday-presentes)** - Um projeto JavaScript para gerenciamento de presentes, listagem, filtro e webhook com as ferramentas de pagamento.
+  - **[xv-bthday-mp-obrigado](https://github.com/rafcsx/xv-bthday-mp-obrigado)** - Página de agradecimento estilizada em CSS com javascript (caixas de presentes caindo do topo, etc...).
 
   ---
 
