@@ -10,7 +10,7 @@
     <a href="https://www.faelc.com.br">
       <img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:rafcs.x@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/rafcsx?tab=repositories">
