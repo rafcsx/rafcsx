@@ -64,7 +64,7 @@ graph TD
       <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
       <ul>
-        <li>1M+ daily transactions with Binance API records</li>
+        <li>1M+ daily blockchain transactions with Binance API records</li>
         <li>Real-time dashboards</li>
         <li>Bank-grade security to cryptowallets</li>
       </ul>
