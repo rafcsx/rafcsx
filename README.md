@@ -19,7 +19,7 @@
   </div>
 </div>
 
-## 🚀 𝕿𝖊𝖈𝖍 𝕻𝖗𝖔𝖋𝖎𝖑𝖊
+## 𝕿𝖊𝖈𝖍 𝕻𝖗𝖔𝖋𝖎𝖑𝖊
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFB&center=true&vCenter=true&width=600&lines=Cloud+Native+Architect;Fullstack+Specialist;Performance+Optimizer;Tech+Leader" alt="Expertise" />
@@ -37,13 +37,13 @@ graph TD
     D --> G[GitHub Actions]
 ```
 
-## 🛠️ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
+##  𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,githubactions,react,nextjs,typescript,tailwind,svelte,nodejs,python,go,rust,postgres,mongodb,redis,firebase,supabase,figma&perline=11" alt="Tech Stack" />
 </div>
 
-## 🌟 𝕿𝖔𝖕 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
+## 𝕿𝖔𝖕 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
 <table>
   <tr>
@@ -103,13 +103,13 @@ pie
     "Others" : 15
 ```
 
-## 🎯 𝕮𝖚𝖗𝖗𝖊𝖓𝖙 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌
+## 𝕮𝖚𝖗𝖗𝖊𝖓𝖙 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00FFFB&center=true&vCenter=true&width=600&lines=Rust+for+systems+programming;WebAssembly+optimizations;Machine+Learning+fundamentals;Blockchain+development" alt="Learning" />
 </div>
 
-## 🎸 �𝖊𝖞𝖔𝖓𝖉 𝕮𝖔𝖉𝖊
+## 𝕻𝖊𝖞𝖔𝖓𝖉 𝕮𝖔𝖉𝖊
 [![Last.fm](https://img.shields.io/badge/Last.fm-%23D51007.svg?style=for-the-badge&logo=last.fm&logoColor=black)](https://www.last.fm/user/Endogeny)  
 [![Music](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21ipdca4zdhhu332c3bsdg7xy?si=505b0fdac79b4cdb)
 <div align="center">
