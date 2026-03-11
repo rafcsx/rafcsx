@@ -56,7 +56,9 @@ Currently at **MPMG** (Ministério Público de Minas Gerais) building an enterpr
 [![Last.fm](https://img.shields.io/badge/Last.fm-%23D51007.svg?style=flat-square&logo=last.fm&logoColor=white)](https://www.last.fm/user/Endogeny)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/21ipdca4zdhhu332c3bsdg7xy?si=505b0fdac79b4cdb)
 
-Counter-Strike · Powerlifting · Coffee
+![Counter-Strike](https://img.shields.io/badge/Counter_Strike-%23000000.svg?&style=flat-square&logo=counter-strike&logoColor=white)
+![Powerlifting](https://img.shields.io/badge/Powerlifting-%23000000.svg?&style=flat-square&logo=strava&logoColor=white)
+![Coffee](https://img.shields.io/badge/Coffee-%23F4A460.svg?&style=flat-square&logo=buymeacoffee&logoColor=white)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafcsx&label=views&style=flat-square&color=00fffb"/>
