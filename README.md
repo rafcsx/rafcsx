@@ -12,7 +12,11 @@
 
 Fullstack engineer with 6+ years of experience building web applications, APIs, and cloud infrastructure.
 
-Currently at **MPMG** (Ministério Público de Minas Gerais) on an enterprise judicial system with SvelteKit and Go, and at **Bactolac** as Technical Architect & Delivery Lead on AWS. Also building **Neferia**, a local-first desktop assistant for criminal case analysis (Tauri, React, Supabase).
+At **Neferia** I build a local-first desktop assistant for criminal case analysis (Tauri, React, Supabase): data layer, CI quality gates, and auth hardening.
+
+Previously at **MPMG** (Ministério Público de Minas Gerais) I started as a **Frontend Engineer** on the enterprise judicial platform (**MPE** / **SGAD**) with SvelteKit and Go, then moved into **QA**, owning test strategy and automation: Playwright E2E on V1 (judicial/extrajudicial, per-role storage state), API suites with Insomnia, quality gates with **SonarQube**, and **GitLab CI** / Jenkins pipelines. Left in August 2026.
+
+Also at **Bactolac** as Technical Architect & Delivery Lead on AWS.
 
 ## Stack
 
@@ -31,6 +35,13 @@ Currently at **MPMG** (Ministério Público de Minas Gerais) on an enterprise ju
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**QA & Delivery**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
 
 **Data & Infra**
 
